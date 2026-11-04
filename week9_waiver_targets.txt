@@ -1,0 +1,17 @@
+# PFF fantasy waiver wire targets, NFL Week 9 (Nov 1, 2026)
+# Already in nfl_headshots/: Malik Willis, Sam Darnold, J.J. McCarthy,
+# Jonah Coleman, Mike Washington Jr., MarShawn Lloyd, Seth McGowan,
+# Tyjae Spears, Kaelon Black, Jordyn Tyson, Caleb Douglas, Keenan Allen,
+# Adonai Mitchell, Antonio Williams, Treylon Burks, Malik Washington,
+# Travis Hunter, Brian Thomas Jr., Malachi Fields, Mike Gesicki,
+# Greg Dulcich, Terrance Ferguson, Eli Raridon
+# Quarterbacks
+Cam Ward, TEN
+Carson Beck, ARI
+# Running backs
+Tyler Allgeier, ARI
+Jacory Croskey-Merritt, WAS
+Emmett Johnson, KC
+# Wide receivers
+Ryan Flournoy, DAL
+Jahan Dotson, ATL

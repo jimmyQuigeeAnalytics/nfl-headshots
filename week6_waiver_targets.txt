@@ -1,0 +1,26 @@
+# PFF fantasy waiver wire targets, NFL Week 6 (Oct 11, 2026)
+# Already in nfl_headshots/: Jameis Winston, Keaton Mitchell, Tyjae Spears,
+# Kendre Miller, Malik Washington, Jordyn Tyson, Darius Cooper, Pat Freiermuth,
+# Tyler Higbee, Chig Okonkwo
+# Quarterbacks
+Jordan Love, GB
+Kirk Cousins, LV
+Malik Willis, MIA
+# Running backs
+MarShawn Lloyd, GB
+Woody Marks, HOU
+Jordan Mason, MIN
+Dameon Pierce, PHI
+Kimani Vidal, LAC
+Samaje Perine, CIN
+# Wide receivers
+Dontayvion Wicks, PHI
+Tre Tucker, LV
+Caleb Douglas, MIA
+Germie Bernard, PIT
+Antonio Williams, WAS
+Brandin Cooks, SF
+Isaiah Bond, CLE
+# Tight ends
+Brenton Strange, JAX
+Eli Raridon, NE

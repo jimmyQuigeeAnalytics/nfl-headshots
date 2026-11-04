@@ -1,0 +1,23 @@
+# PFF fantasy waiver wire targets, NFL Week 8 (Oct 25, 2026)
+# Already in nfl_headshots/: Jacoby Brissett, J.J. McCarthy, Jonah Coleman,
+# Bam Knight, Mike Washington Jr., Tank Bigsby, Tyjae Spears, Omar Cooper Jr.,
+# KC Concepcion, Jordyn Tyson, Caleb Douglas, Ja'Kobi Lane, Antonio Williams,
+# Brenton Strange, Chig Okonkwo, Eli Raridon
+# Quarterbacks
+Sam Darnold, SEA
+Geno Smith, NYJ
+# Running backs
+Seth McGowan, IND
+Kaelon Black, SF
+Jonathon Brooks, CAR
+Devin Singletary, NYG
+# Wide receivers
+Keenan Allen, IND
+Travis Hunter, JAX
+Brian Thomas Jr., JAX
+Treylon Burks, WAS
+Pat Bryant, DEN
+# Tight ends
+Terrance Ferguson, LA
+Mason Taylor, NYJ
+Greg Dulcich, MIA

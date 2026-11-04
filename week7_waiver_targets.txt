@@ -1,0 +1,22 @@
+# PFF fantasy waiver wire targets, NFL Week 7 (Oct 18, 2026)
+# Already in nfl_headshots/: Jordan Mason, Kendre Miller, Tyjae Spears,
+# Samaje Perine, Germie Bernard, Jordyn Tyson, Tre Tucker, Malik Washington,
+# Caleb Douglas, Keon Coleman, Darius Cooper, Antonio Williams, Tyler Higbee,
+# Brenton Strange, Michael Mayer
+# Quarterbacks
+C.J. Stroud, HOU
+Kyler Murray, MIN
+J.J. McCarthy, NYG
+Tanner McKee, PHI
+# Running backs
+Jonah Coleman, DEN
+Bam Knight, ARI
+Mike Washington Jr., LV
+Dylan Sampson, CLE
+Chris Rodriguez Jr., JAX
+# Wide receivers
+Omar Cooper Jr., NYJ
+KC Concepcion Jr., CLE
+Jaylin Noel, HOU
+Demario Douglas, NE
+Ja'Kobi Lane, BAL

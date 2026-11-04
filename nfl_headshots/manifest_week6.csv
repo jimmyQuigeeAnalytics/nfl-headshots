@@ -1,0 +1,19 @@
+query,player,team,position,source,file,width,height,transparent
+"Jordan Love, GB",Jordan Love,GB,QB,nfl.com,Jordan Love.png,3400,2450,yes
+"Kirk Cousins, LV",Kirk Cousins,LV,QB,nfl.com,Kirk Cousins.png,3400,2450,yes
+"Malik Willis, MIA",Malik Willis,MIA,QB,nfl.com,Malik Willis.png,3400,2450,yes
+"MarShawn Lloyd, GB",MarShawn Lloyd,GB,RB,nfl.com,MarShawn Lloyd.png,3400,2450,yes
+"Woody Marks, HOU",Woody Marks,HOU,RB,nfl.com,Woody Marks.png,3400,2450,yes
+"Jordan Mason, MIN",Jordan Mason,MIN,RB,nfl.com,Jordan Mason.png,3400,2450,yes
+"Dameon Pierce, PHI",Dameon Pierce,PHI,RB,nfl.com,Dameon Pierce.png,3400,2450,yes
+"Kimani Vidal, LAC",Kimani Vidal,LAC,RB,nfl.com,Kimani Vidal.png,3400,2450,yes
+"Samaje Perine, CIN",Samaje Perine,CIN,RB,nfl.com,Samaje Perine.png,3400,2450,yes
+"Dontayvion Wicks, PHI",Dontayvion Wicks,PHI,WR,nfl.com,Dontayvion Wicks.png,3400,2450,yes
+"Tre Tucker, LV",Tre Tucker,LV,WR,nfl.com,Tre Tucker.png,3400,2450,yes
+"Caleb Douglas, MIA",Caleb Douglas,MIA,WR,nfl.com,Caleb Douglas.png,3400,2450,yes
+"Germie Bernard, PIT",Germie Bernard,PIT,WR,nfl.com,Germie Bernard.png,3400,2450,yes
+"Antonio Williams, WAS",Antonio Williams,WAS,WR,nfl.com,Antonio Williams.png,3400,2450,yes
+"Brandin Cooks, SF",Brandin Cooks,SF,WR,nfl.com,Brandin Cooks.png,3400,2450,yes
+"Isaiah Bond, CLE",Isaiah Bond,CLE,WR,nfl.com,Isaiah Bond.png,3200,2450,yes
+"Brenton Strange, JAX",Brenton Strange,JAX,TE,nfl.com,Brenton Strange.png,3400,2450,yes
+"Eli Raridon, NE",Eli Raridon,NE,TE,nfl.com,Eli Raridon.png,3400,2450,yes
